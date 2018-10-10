@@ -15,7 +15,7 @@ with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
 
 # Get the history from the HISTORY file
 with open('HISTORY.rst') as history_file:
-history = history_file.read()
+    history = history_file.read()
 
 # get the dependencies and installs
 with open(path.join(here, 'requirements.txt'), encoding='utf-8') as f:
