@@ -54,6 +54,10 @@ If the installation fails in Linux you would probably need the following package
 * netcdf-bin
 * libnetcdf-dev
 
+In Ubuntu :
+
+  $ sudo apt-get install libhdf5-serial-dev netcdf-bin libnetcdf-dev
+
 Credits
 -------
 
