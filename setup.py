@@ -5,16 +5,16 @@ from setuptools import setup, find_packages
 from codecs import open
 from os import path
 
-__version__ = '0.0.9'
+__version__ = '0.1.0'
 
 here = path.abspath(path.dirname(__file__))
 
 # Get the long description from the README file
-with open('README.rst') as readme_file:
+with open('README.rst',encoding='utf-8') as readme_file:
     readme = readme_file.read()
 
 # Get the history from the HISTORY file
-with open('HISTORY.rst') as history_file:
+with open('HISTORY.rst',encoding='utf-8') as history_file:
     history = history_file.read()
 
 # get the dependencies and installs
