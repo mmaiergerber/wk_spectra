@@ -1,7 +1,4 @@
-=========================
-wk_spectra Python Package
-=========================
-
+# wk_spectra Python Package
 
 .. image:: https://img.shields.io/pypi/v/wk_spectra.svg
         :target: https://pypi.python.org/pypi/wk_spectra
@@ -15,9 +12,7 @@ wk_spectra Python Package
 
 
 
-
-
-version number: 0.0.2
+version number: 0.0.8
 
 author: Alejandro Jaramillo
 
