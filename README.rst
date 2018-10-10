@@ -1,16 +1,16 @@
 ======================
-wheeler_kiladis_python
+wk_spectra Python Package
 ======================
 
 
-.. image:: https://img.shields.io/pypi/v/wheeler_kiladis_python.svg
-        :target: https://pypi.python.org/pypi/wheeler_kiladis_python
+.. image:: https://img.shields.io/pypi/v/wk_spectra.svg
+        :target: https://pypi.python.org/pypi/wk_spectra
 
-.. image:: https://img.shields.io/travis/ajaramillomoreno/wheeler_kiladis_python.svg
-        :target: https://travis-ci.org/ajaramillomoreno/wheeler_kiladis_python
+.. image:: https://img.shields.io/travis/ajaramillomoreno/wk_spectra.svg
+        :target: https://travis-ci.org/ajaramillomoreno/wk_spectra
 
-.. image:: https://readthedocs.org/projects/wheeler-kiladis-python/badge/?version=latest
-        :target: https://wheeler-kiladis-python.readthedocs.io/en/latest/?badge=latest
+.. image:: https://readthedocs.org/projects/wk_spectra/badge/?version=latest
+        :target: https://wk_spectra.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
 
