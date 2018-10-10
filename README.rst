@@ -14,6 +14,7 @@ wk_spectra Python Package
         :alt: Documentation Status
 
 version number: 0.0.1
+
 author: Alejandro Jaramillo
 
 Overview
@@ -45,8 +46,15 @@ Features
 Credits
 -------
 
-This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
-https://github.com/wdm0006/cookiecutter-pipproject.git
-https://github.com/conda/cookiecutter-conda-python.git
+This package was created with Cookiecutter_ and the following proyect templates:
+
+*`audreyr/cookiecutter-pypackage`_
+
+*`wdm0006/cookiecutter-pipproject`_
+
+*`conda/cookiecutter-conda-python`_
+
 .. _Cookiecutter: https://github.com/audreyr/cookiecutter
 .. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
+.. _`wdm0006/cookiecutter-pipproject`: https://github.com/wdm0006/cookiecutter-pipproject.git
+.. _`conda/cookiecutter-conda-python`: https://github.com/conda/cookiecutter-conda-python.git
