@@ -15,7 +15,7 @@ Types of Contributions
 Report Bugs
 ~~~~~~~~~~~
 
-Report bugs at https://github.com/ajaramillomoreno/wheeler_kiladis_python/issues.
+Report bugs at https://github.com/ajaramillomoreno/wk_spectra/issues.
 
 If you are reporting a bug, please include:
 
@@ -45,7 +45,7 @@ articles, and such.
 Submit Feedback
 ~~~~~~~~~~~~~~~
 
-The best way to send feedback is to file an issue at https://github.com/ajaramillomoreno/wheeler_kiladis_python/issues.
+The best way to send feedback is to file an issue at https://github.com/ajaramillomoreno/wk_spectra/issues.
 
 If you are proposing a feature:
 
@@ -57,17 +57,17 @@ If you are proposing a feature:
 Get Started!
 ------------
 
-Ready to contribute? Here's how to set up `wheeler_kiladis_python` for local development.
+Ready to contribute? Here's how to set up `wk_spectra` for local development.
 
-1. Fork the `wheeler_kiladis_python` repo on GitHub.
+1. Fork the `wk_spectra` repo on GitHub.
 2. Clone your fork locally::
 
-    $ git clone git@github.com:your_name_here/wheeler_kiladis_python.git
+    $ git clone git@github.com:your_name_here/wk_spectra.git
 
 3. Install your local copy into a virtualenv. Assuming you have virtualenvwrapper installed, this is how you set up your fork for local development::
 
-    $ mkvirtualenv wheeler_kiladis_python
-    $ cd wheeler_kiladis_python/
+    $ mkvirtualenv wk_spectra
+    $ cd wk_spectra/
     $ python setup.py develop
 
 4. Create a branch for local development::
