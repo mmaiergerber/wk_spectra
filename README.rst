@@ -1,4 +1,6 @@
-# wk_spectra Python Package
+======================
+wheeler_kiladis_python
+======================
 
 .. image:: https://img.shields.io/pypi/v/wk_spectra.svg
         :target: https://pypi.python.org/pypi/wk_spectra
