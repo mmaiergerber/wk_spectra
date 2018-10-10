@@ -5,9 +5,11 @@ nose
 coverage
 pypi-publisher
 numpy>=1.15.2
+cython>=0.19
 scipy>=1.1.0
 matplotlib>=3.0.0
 pandas>=0.23.4
 seaborn==0.9.0
+hdf5plugin
 h5py
 netCDF4>=1.4.1
