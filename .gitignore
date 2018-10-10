@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+.pytest_cache/
+__pycache__/
+*.py[cod]
+
+# emacs temp files
+*~
+#*#
+
+# C extensions
+*.so
+
+# Distribution / packaging
+bin/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+Drafts/
+*/build/
+build/
+venv/
+
+*.egg-info
+PKG-INFO
+.installed.cfg
+*.egg*
