@@ -1,6 +1,5 @@
-======================
-wheeler_kiladis_python
-======================
+wk_spectra Python Package
+=========================
 
 .. image:: https://img.shields.io/pypi/v/wk_spectra.svg
         :target: https://pypi.python.org/pypi/wk_spectra
@@ -14,7 +13,7 @@ wheeler_kiladis_python
 
 
 
-version number: 0.0.8
+version number: 0.0.9
 
 author: Alejandro Jaramillo
 
@@ -56,7 +55,7 @@ If the installation fails in Linux you would probably need the following package
 
 In Ubuntu :
 
-  $ sudo apt-get install libhdf5-serial-dev netcdf-bin libnetcdf-dev
+    $ sudo apt-get install libhdf5-serial-dev netcdf-bin libnetcdf-dev
 
 Credits
 -------
