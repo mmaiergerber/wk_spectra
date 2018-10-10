@@ -1,6 +1,7 @@
-======================
+=========================
 wk_spectra Python Package
-======================
+=========================
+
 
 .. image:: https://img.shields.io/pypi/v/wk_spectra.svg
         :target: https://pypi.python.org/pypi/wk_spectra
@@ -11,6 +12,10 @@ wk_spectra Python Package
 .. image:: https://readthedocs.org/projects/wk_spectra/badge/?version=latest
         :target: https://wk_spectra.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
+
+
+
+
 
 version number: 0.0.2
 
@@ -45,13 +50,14 @@ Features
 Credits
 -------
 
-This package was created with Cookiecutter_ and the following proyect templates:
+This package was created with Cookiecutter_ and the following project templates:
 
 *`audreyr/cookiecutter-pypackage`_
 
 *`wdm0006/cookiecutter-pipproject`_
 
 *`conda/cookiecutter-conda-python`_
+
 
 .. _Cookiecutter: https://github.com/audreyr/cookiecutter
 .. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
