@@ -2,7 +2,6 @@
 wk_spectra Python Package
 ======================
 
-
 .. image:: https://img.shields.io/pypi/v/wk_spectra.svg
         :target: https://pypi.python.org/pypi/wk_spectra
 
@@ -13,7 +12,7 @@ wk_spectra Python Package
         :target: https://wk_spectra.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
-version number: 0.0.1
+version number: 0.0.2
 
 author: Alejandro Jaramillo
 

@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 from codecs import open
 from os import path
 
-__version__ = '0.0.1'
+__version__ = '0.0.2'
 
 here = path.abspath(path.dirname(__file__))
 
@@ -29,6 +29,7 @@ setup(
     name='wk_spectra',
     description='A Python package for the construction of the Wheeler-Kiladis Space-Time Spectra.',
     long_description=long_description+ '\n\n' + history,
+    long_description_content_type='text/markdown',
     author='Alejandro Jaramillo',
     author_email='ajaramillomoreno@gmail.com',
     url='https://github.com/ajaramillomoreno/wk_spectra',
