@@ -45,12 +45,14 @@ Features
 
 * TODO
 
-Installation Problems
+Known Issues
 ---------------------
 
-*libhdf5-serial-dev
-*netcdf-bin
-*libnetcdf-dev
+If the installation fails in Linux you would probably need the following packages:
+
+* libhdf5-serial-dev
+* netcdf-bin
+* libnetcdf-dev
 
 Credits
 -------
@@ -62,7 +64,6 @@ This package was created with Cookiecutter_ and the following project templates:
 *`wdm0006/cookiecutter-pipproject`_
 
 *`conda/cookiecutter-conda-python`_
-
 
 .. _Cookiecutter: https://github.com/audreyr/cookiecutter
 .. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
