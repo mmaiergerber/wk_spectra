@@ -37,8 +37,8 @@ To install use pip:
     $ pip install wk_spectra
 
 
-Or clone the repo:hdf5plugin
-h5py
+Or clone the repo:
+
 
     $ git clone https://github.com/ajaramillomoreno/wk_spectra.git
     $ python setup.py install

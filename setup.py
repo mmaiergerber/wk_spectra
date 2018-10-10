@@ -10,8 +10,8 @@ __version__ = '0.0.6'
 here = path.abspath(path.dirname(__file__))
 
 # Get the long description from the README file
-with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
-    long_description = f.read()
+with open('README.rst') as readme_file:
+    readme = readme_file.read()
 
 # Get the history from the HISTORY file
 with open('HISTORY.rst') as history_file:
@@ -28,7 +28,7 @@ setup(
     version=__version__,
     name='wk_spectra',
     description='A Python package for the construction of the Wheeler-Kiladis Space-Time Spectra.',
-    long_description=long_description+ '\n\n' + history,
+    long_description=readme + '\n\n' + history,
     long_description_content_type='text/markdown',
     author='Alejandro Jaramillo',
     author_email='ajaramillomoreno@gmail.com',
@@ -46,5 +46,6 @@ setup(
     packages=find_packages(exclude=['docs', 'tests*']),
     include_package_data=True,
     install_requires=install_requires,
-    dependency_links=dependency_links
+    dependency_links=dependency_links,
+    zip_safe=False
 )
