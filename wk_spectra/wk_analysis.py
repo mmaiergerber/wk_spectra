@@ -408,8 +408,12 @@ def derive_background(power,nlat,nSampWin,wavefft,freqfft):
     maxwav4smth = 27
     indwvsmth = np.where(np.logical_and(wavefft>=-maxwav4smth, wavefft<=maxwav4smth))[0]
 
+    if (nSampWin%2==0):
+        freq_range = np.arange(int(nSampWin/2)+1,nSampWin+1)
+    else:
+        freq_range = np.arange(int(nSampWin/2)+1,nSampWin)
 
-    for tt in np.arange(int(nSampWin/2)+1,nSampWin+1):
+    for tt in freq_range:
         if (freqfft[tt]<0.1):
             for i in range(5):
                 psumb[tt,indwvsmth] = smooth121(psumb[tt,indwvsmth])
